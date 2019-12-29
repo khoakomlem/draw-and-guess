@@ -124,7 +124,7 @@ function mouseDragged() {
 }
 
 function draw() {
-	background(0)
+	background(0);
 	image(sketch, 0, 0);
 	strokeWeight(size);
 	stroke(255, 204, 0);
