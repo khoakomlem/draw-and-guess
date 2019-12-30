@@ -135,14 +135,14 @@ $(document).ready(function() {
                 title: id + " đã vào phòng!"
             });
         } else { // người vào phòng của chủ phòng thành công
-            masterWidth = room.width;
+            masterWidth = room.width*0.7;
             masterHeight = room.height;
             myWidth = window.innerWidth * 70 / 100;
             myHeight = window.innerHeight;
             // resizeCanvas(myWidth, myHeight);
             // sketch.resizeCanvas(myWidth, myHeight);
             resizeCanvas(masterWidth, masterHeight);
-            sketch.resizeCanvas(masterWidth*0.7, masterHeight);
+            sketch.resizeCanvas(masterWidth, masterHeight);
             $('#menu').stop().slideUp(1000, '', () => {
                 showSketch();
             });
