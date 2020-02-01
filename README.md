@@ -7,4 +7,5 @@ Game vẽ và đoán
 <br>
 Mở terminal, gõ 
 >node index.js
-Enjoy!
+Enjoy!<bt>
+Link test: http://drawandguess.herokuapp.com/
