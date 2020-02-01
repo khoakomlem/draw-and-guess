@@ -4,6 +4,7 @@ Game vẽ và đoán
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSiGnQLDTk0TrQdPNVFDQPlvqdrkERQNDpME5Q3YhVYvSNXe1G&s"> 
 </p>
 <hr>
+<br>
 Mở terminal, gõ 
 >node index.js
 Enjoy!
