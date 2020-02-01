@@ -1,6 +1,6 @@
 # draw-and-guess
 Game vẽ và đoán
 
-<img src="http://thieunien.vn/uploads/2019/08/1566371522-xbox.png"> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSiGnQLDTk0TrQdPNVFDQPlvqdrkERQNDpME5Q3YhVYvSNXe1G&s"> 
 <hr>
 Mở terminal, gõ node index.js và enjoy
